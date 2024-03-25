@@ -1,1 +1,1 @@
-# PlasBank
+- An application with functionalities for managing donor information and blood samples. Users can add and view details, update costs, and perform administrative tasks. Utilized MySQL to implement the database. Utilized PyMySQL python library and datetime module to create an interactive frontend. 
